@@ -1,0 +1,90 @@
+{'Text': 'Создаем массу асинхронных запросов при помощи Grequests', 'Link': 'https://habrahabr.ru/post/334970/'}
+{'Text': 'Пишем бота для Slack на Python', 'Link': 'https://habrahabr.ru/post/334678/'}
+{'Text': 'Карта самоорганизации (Self-orginizing map) на TensorFlow', 'Link': 'https://habrahabr.ru/post/334810/'}
+{'Text': 'Как я сделал самый быстрый ресайз изображений. Часть 3, числа с фиксированной точкой', 'Link': 'https://habrahabr.ru/post/334790/'}
+{'Text': 'Генератор кликов на Python для программы Data Engineer', 'Link': 'https://habrahabr.ru/company/newprolab/blog/334756/'}
+{'Text': 'Тематическое моделирование средствами BigARTM', 'Link': 'https://habrahabr.ru/post/334668/'}
+{'Text': 'GeekUniversity открывает набор студентов на факультет Python-разработки', 'Link': 'https://habrahabr.ru/company/mailru/blog/334532/'}
+{'Text': 'Pygest #14. Релизы, статьи, интересные проекты из мира Python [18 июля 2017 — 31 июля 2017]', 'Link': 'https://habrahabr.ru/post/334474/'}
+{'Text': 'Интерфейс vs interface', 'Link': 'https://habrahabr.ru/post/332578/'}
+{'Text': 'Что необходимо для качественной Web разработки?', 'Link': 'https://habrahabr.ru/company/otus/blog/334328/'}
+{'Text': 'SOAP и REST сервисы с помощью Python-библиотеки Spyne', 'Link': 'https://habrahabr.ru/post/334290/'}
+{'Text': 'Призрак локомотива или биржевой рынок через призму корреляций', 'Link': 'https://habrahabr.ru/post/334288/'}
+{'Text': 'Автоматизация IP-сети. Часть3 – Мониторинг TCP аномалий', 'Link': 'https://habrahabr.ru/post/333768/'}
+{'Text': 'Как научить свою нейросеть генерировать стихи', 'Link': 'https://habrahabr.ru/post/334046/'}
+{'Text': 'Использование VK Streaming API с оповещением в Telegram', 'Link': 'https://habrahabr.ru/post/333942/'}
+{'Text': 'Британские спутниковые снимки 2: как все было на самом деле', 'Link': 'https://habrahabr.ru/company/ods/blog/330118/'}
+{'Text': 'Getsploit: поиск и загрузка эксплойтов по агрегированной базе данных', 'Link': 'https://habrahabr.ru/post/333808/'}
+{'Text': 'Книга «Python. Уроки»', 'Link': 'https://habrahabr.ru/post/333672/'}
+{'Text': 'Emacs + удобный менеджер окон и буферов', 'Link': 'https://habrahabr.ru/post/333640/'}
+{'Text': 'Яндекс открывает технологию машинного обучения CatBoost', 'Link': 'https://habrahabr.ru/company/yandex/blog/333522/'}
+{'Text': 'QML: как легко получать футболки в конкурсах mail.ru по машинному обучению', 'Link': 'https://habrahabr.ru/post/333554/'}
+{'Text': 'Электронная демократия или как собрать и обработать данные по голосованию (и явке) за реновацию в Москве', 'Link': 'https://habrahabr.ru/post/333540/'}
+{'Text': 'Книга «Автостопом по Python»', 'Link': 'https://habrahabr.ru/company/piter/blog/333498/'}
+{'Text': 'Кроссплатформенный IoT: Использование Azure CLI и Azure IoT Hub', 'Link': 'https://habrahabr.ru/company/microsoft/blog/333530/'}
+{'Text': 'Машинное обучение и поиск темной материи: соревнование от ЦЕРНа и Яндекса', 'Link': 'https://habrahabr.ru/company/yandex/blog/333490/'}
+{'Text': 'Чудесный мир Word Embeddings: какие они бывают и зачем нужны?', 'Link': 'https://habrahabr.ru/company/ods/blog/329410/'}
+{'Text': 'Использование нейронных сетей для распознавания рукописных цифр Часть 1', 'Link': 'https://habrahabr.ru/post/333492/'}
+{'Text': 'Pygest #13. Релизы, статьи, интересные проекты из мира Python [04 июля 2017 — 17 июля 2017]', 'Link': 'https://habrahabr.ru/post/333444/'}
+{'Text': 'Разработка скриптов-обёрток с помощью инструмента Sparrow', 'Link': 'https://habrahabr.ru/post/333410/'}
+{'Text': 'Метод BFGS или один из самых эффективных методов оптимизации. Пример реализации на Python', 'Link': 'https://habrahabr.ru/post/333356/'}
+{'Text': 'Делаем сервис по распознаванию изображений с помощью TensorFlow Serving', 'Link': 'https://habrahabr.ru/company/ods/blog/332584/'}
+{'Text': 'Вышел Upsource 2017.2 с поддержкой внешних инспекций кода, Python, NPM и многим другим', 'Link': 'https://habrahabr.ru/company/JetBrains/blog/333034/'}
+{'Text': 'Как мы упоролись и откалибровали кофе-машину на спектрофотометре', 'Link': 'https://habrahabr.ru/post/331754/'}
+{'Text': 'IceCash 2.0 Web АРМ Кассира и АИС по обмену данными с кассами под Linux на Python', 'Link': 'https://habrahabr.ru/post/323100/'}
+{'Text': 'Автоматизируем десктопный GUI на Python + pywinauto: как подружиться c MS UI Automation', 'Link': 'https://habrahabr.ru/post/323962/'}
+{'Text': 'Как мы ловим Deadlock`и на PostgreSQL и чиним их', 'Link': 'https://habrahabr.ru/company/wargaming/blog/323354/'}
+{'Text': 'Интервью с программистом из Тинькофф Банка Андреем Степановым о языке Python и ML', 'Link': 'https://habrahabr.ru/company/it_people/blog/332870/'}
+{'Text': 'Линейное программирование в python силами библиотеки scipy', 'Link': 'https://habrahabr.ru/post/332866/'}
+{'Text': 'Интервью с разработчиком из Venmo Ниной Захаренко о языке Python и не только', 'Link': 'https://habrahabr.ru/company/it_people/blog/332760/'}
+{'Text': 'Программный сбор данных о котировках', 'Link': 'https://habrahabr.ru/post/332700/'}
+{'Text': 'Автоматизация IP-сети. Часть2 – Мониторинг скорости открытия Веб страниц', 'Link': 'https://habrahabr.ru/post/332690/'}
+{'Text': 'Спасёт ли Python от казни?', 'Link': 'https://habrahabr.ru/post/332620/'}
+{'Text': 'Анонс Moscow Spark #2', 'Link': 'https://habrahabr.ru/company/rambler-co/blog/332546/'}
+{'Text': 'Использование утилит timeout & strace для мониторинга неактивности пользователя для разрыва соединения Shellinabox', 'Link': 'https://habrahabr.ru/post/332544/'}
+{'Text': 'Вырастаем над проблемами Python', 'Link': 'https://habrahabr.ru/company/avito/blog/332484/'}
+{'Text': 'Как пройти собеседование в компанию мечты? Советы от тимлидов IT-компаний', 'Link': 'https://habrahabr.ru/company/it_people/blog/332468/'}
+{'Text': 'Про аналитику и серебряные пули или «При чем здесь Рамблер/топ-100?»', 'Link': 'https://habrahabr.ru/company/rambler-co/blog/332202/'}
+{'Text': 'Как искать людей в числе Пи и при чем тут Python', 'Link': 'https://habrahabr.ru/company/otus/blog/332180/'}
+{'Text': 'Pygest #12. Релизы, статьи, интересные проекты из мира Python [20 июня 2017 — 03 июля 2017]', 'Link': 'https://habrahabr.ru/post/332114/'}
+{'Text': 'Метод оптимизации Нелдера — Мида. Пример реализации на Python', 'Link': 'https://habrahabr.ru/post/332092/'}
+{'Text': 'Автоэнкодеры в Keras, часть 6: VAE + GAN', 'Link': 'https://habrahabr.ru/post/332074/'}
+{'Text': 'Интеграция 1С с DLL с помощью Python', 'Link': 'https://habrahabr.ru/post/332082/'}
+{'Text': 'Делаем data science-портфолио: история через данные', 'Link': 'https://habrahabr.ru/post/331528/'}
+{'Text': 'Вероятностный и информационный анализ результатов измерений на Python', 'Link': 'https://habrahabr.ru/post/332066/'}
+{'Text': 'Автоэнкодеры в Keras, Часть 5: GAN(Generative Adversarial Networks) и tensorflow', 'Link': 'https://habrahabr.ru/post/332000/'}
+{'Text': 'Использование Python и Excel для обработки и анализа данных. Часть 2: библиотеки для работы с данными', 'Link': 'https://habrahabr.ru/company/otus/blog/331998/'}
+{'Text': 'Дни открытых дверей перед запуском нового курса по Python', 'Link': 'https://habrahabr.ru/company/otus/blog/331956/'}
+{'Text': 'Получаем фотографии NASA с Марса с помощью aiohttp', 'Link': 'https://habrahabr.ru/post/331834/'}
+{'Text': 'Руководство: как использовать Python для алгоритмической торговли на бирже. Часть 2', 'Link': 'https://habrahabr.ru/company/itinvest/blog/331940/'}
+{'Text': 'Использование Python и Excel для обработки и анализа данных. Часть 1: импорт данных и настройка среды', 'Link': 'https://habrahabr.ru/company/otus/blog/331746/'}
+{'Text': 'Автоэнкодеры в Keras, Часть 4: Conditional VAE', 'Link': 'https://habrahabr.ru/post/331664/'}
+{'Text': 'Дискриминация котов: веб-трекинг через невидимые картинки', 'Link': 'https://habrahabr.ru/post/326070/'}
+{'Text': 'Подбор закона распределения случайной величины по данным статистической выборки средствами Python', 'Link': 'https://habrahabr.ru/post/331560/'}
+{'Text': 'Автоэнкодеры в Keras, Часть 3: Вариационные автоэнкодеры (VAE)', 'Link': 'https://habrahabr.ru/post/331552/'}
+{'Text': 'Руководство: как использовать Python для алгоритмической торговли на бирже. Часть 1', 'Link': 'https://habrahabr.ru/company/itinvest/blog/331542/'}
+{'Text': 'Автоэнкодеры в Keras, Часть 2: Manifold learning и скрытые (latent) переменные', 'Link': 'https://habrahabr.ru/post/331500/'}
+{'Text': 'Автоэнкодеры в Keras, Часть 1: Введение', 'Link': 'https://habrahabr.ru/post/331382/'}
+{'Text': 'Машинное обучение для страховой компании: Исследуем алгоритмы', 'Link': 'https://habrahabr.ru/company/microsoft/blog/331484/'}
+{'Text': 'Программа PYCON RUSSIA готова: 25 докладов от спикеров из Disney, Facebook, Spotify, PyPy, Тинькофф Банк, Яндекс', 'Link': 'https://habrahabr.ru/company/it_people/blog/331336/'}
+{'Text': 'Как выигрывать в конкурсах репостов Вконтакте?', 'Link': 'https://habrahabr.ru/post/331312/'}
+{'Text': 'CameraTablet — как сделать графический планшет при помощи веб-камеры', 'Link': 'https://habrahabr.ru/post/331288/'}
+{'Text': 'Программируем в мире Minecraft', 'Link': 'https://habrahabr.ru/company/microsoft/blog/331034/'}
+{'Text': 'Pygest #11. Релизы, статьи, интересные проекты из мира Python [6 июня 2017 — 19 июня 2017]', 'Link': 'https://habrahabr.ru/post/331154/'}
+{'Text': 'Моделирование переходных процессов при коммутации электрической цепи средствами Python', 'Link': 'https://habrahabr.ru/post/330990/'}
+{'Text': 'Разбираемся в джунглях программирования, или почему Маугли дружил с Python?', 'Link': 'https://habrahabr.ru/company/otus/blog/330824/'}
+{'Text': 'Нейрокурятник: часть 4 — итоговая модель и код на прод', 'Link': 'https://habrahabr.ru/post/330738/'}
+{'Text': 'Отзывчивые столбчатые диаграммы с Bokeh, Flask и Python 3', 'Link': 'https://habrahabr.ru/post/330706/'}
+{'Text': 'Решение задач линейного программирования с использованием Python', 'Link': 'https://habrahabr.ru/post/330648/'}
+{'Text': 'Набор на курс Python: почему мы думаем, что Python 2.7. — это серьезно, а Python 3 — модно', 'Link': 'https://habrahabr.ru/company/otus/blog/330606/'}
+{'Text': 'Генерируем произвольные последовательности на выводах платы Raspberry Pi', 'Link': 'https://habrahabr.ru/company/dataart/blog/330536/'}
+{'Text': 'Предварительная программа PyConRu-2017: выступят докладчики из Disney, Facebook, Яндекса, JetBrains, Тинькофф Банка', 'Link': 'https://habrahabr.ru/company/it_people/blog/330408/'}
+{'Text': 'Pygest #10. Релизы, статьи, интересные проекты из мира Python [23 мая 2017 — 5 июня 2017]', 'Link': 'https://habrahabr.ru/post/330182/'}
+{'Text': 'Да, Python медленный, но меня это не волнует', 'Link': 'https://habrahabr.ru/post/329988/'}
+{'Text': 'Именованные кортежи. Пишем код на Python чище', 'Link': 'https://habrahabr.ru/post/330034/'}
+{'Text': 'Анализ рынка недвижимости методом случайного леса', 'Link': 'https://habrahabr.ru/post/329504/'}
+{'Text': 'Решение задачи коммивояжёра методом ближайшего соседа на Python', 'Link': 'https://habrahabr.ru/post/329604/'}
+{'Text': 'Эксперименты с malloc и нейронными сетями', 'Link': 'https://habrahabr.ru/company/mailru/blog/329518/'}
+{'Text': 'Расчет оттока клиентов банка (решение задачи с помощью Python)', 'Link': 'https://habrahabr.ru/post/329334/'}
+{'Text': '8 навыков, необходимых в профессии Data Scientist', 'Link': 'https://habrahabr.ru/company/netologyru/blog/329234/'}
+{'Text': 'Сравнение производительности иерархических моделей Django и PostgreSQL', 'Link': 'https://habrahabr.ru/post/329204/'}
